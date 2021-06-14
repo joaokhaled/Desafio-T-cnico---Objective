@@ -1,2 +1,1 @@
-# Desafio-T-cnico---Objective
-Desafio Técnico - Objective Br
+# Desafio Técnico - Objective
